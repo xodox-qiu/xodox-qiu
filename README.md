@@ -1,11 +1,10 @@
-<center><h2>
+<h2 align=center>
 Hello Strangers, I'm Frezy Ananta!
-</center>
+</h2>	
 
-<center><h3>
+<h3 align=center>
  For short call me Frezy, I'm currently learning and aiming to be an software engineer.
-</center>
-
+</h3>	
 
 <h3 align=center> Connect with me </h3>
 
@@ -23,12 +22,12 @@ Hello Strangers, I'm Frezy Ananta!
 </table>
 
 <br>
-<center> Or </center>
+<h3 align=center>OR</h3>
 <br>
 
-<center> Reach Me </center>
-
-<center> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a>
+<h3 align=center>Reach Me</h3>
+<br>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a>
 
 ```mermaid
 sequenceDiagram
@@ -38,7 +37,8 @@ Gaming --> Software Engineer : Contradicts
 Frezy --> Gaming : Mutual
 Frezy -> Software Engineer : Chaotic Evil
 ```
-<center>	Programming Language (Studied) 	</center>
+
+<h3 align=center>Programming Language (Studied)</h3>
 <div name=table align=center>
 	<table>
 	<thead>
@@ -57,7 +57,7 @@ Frezy -> Software Engineer : Chaotic Evil
 <br>
 <br>
 
-<center>	Database (Studied) 	</center>
+<h3 align=center>Database (Studied)</h3>
 
 <div name=table align=center>
 	<table>
