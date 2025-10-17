@@ -1,16 +1,72 @@
-## Hi there 👋
+<center><h2>
+Hello Strangers, I'm Frezy Ananta!
+</center>
 
-<!--
-**xodox-qiu/xodox-qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><h3>
+ For short call me Frezy, I'm currently learning and aiming to be an software engineer.
+</center>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align=center> Connect with me </h3>
+
+<table align=center>
+	<thead>
+	<tr>
+		<th>
+<a href="https://instagram.com/m.mobius_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.mobius_" height="30" width="40" /></a>
+</th>
+<th>
+<a href="https://linkedin.com/in/frezy-ananta-b34a60286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Frezy Ananta" height="30" width="40" /></a>
+</th>
+</tr>
+</thead>
+</table>
+
+<br>
+<center> Or </center>
+<br>
+
+<center> Reach Me </center>
+
+<center> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a>
+
+```mermaid
+sequenceDiagram
+Frezy ->> Gaming : Hobby
+Frezy ->> Software Engineer : Extra steps 
+Gaming --> Software Engineer : Contradicts
+Frezy --> Gaming : Mutual
+Frezy -> Software Engineer : Chaotic Evil
+```
+<center>	Programming Language (Studied) 	</center>
+<div name=table align=center>
+	<table>
+	<thead>
+	<tr>
+	<th>PYTHON</th>
+	<th>KOTLIN</th>
+	<th>PHP</th>
+	<th>JAVASCRIPT</th>
+	<th>R</th>
+	<th>JAVA</th>
+</tr>		
+</thead>	
+</table>
+</div>
+
+<br>
+<br>
+
+<center>	Database (Studied) 	</center>
+
+<div name=table align=center>
+	<table>
+	<thead>
+	<tr>
+	<th>MYSQL</th>
+	<th>MARIADB</th>
+	<th>FIREBASE</th>
+</tr>		
+</thead>	
+</table>
+</div>
