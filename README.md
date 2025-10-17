@@ -21,13 +21,11 @@ Hello Strangers, I'm Frezy Ananta!
 </thead>
 </table>
 
-<br>
 <h3 align=center>OR</h3>
-<br>
 
 <h3 align=center>Reach Me</h3>
 <br>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a>
+<h3 align=center><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a></h3>
 
 ```mermaid
 sequenceDiagram
