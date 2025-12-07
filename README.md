@@ -26,15 +26,6 @@ Hello Strangers, I'm Frezy Ananta!
 <h3 align=center>Reach Me</h3>
 <h3 align=center><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dvalinnsimulacrum@gmail.com&su=About%20This%20Project&body=Hello!">dvalinnsimulacrum@gmail.com</a></h3>
 
-```mermaid
-sequenceDiagram
-Frezy ->> Gaming : Hobby
-Frezy ->> Software Engineer : Extra steps 
-Gaming --> Software Engineer : Contradicts
-Frezy --> Gaming : Mutual
-Frezy -> Software Engineer : Chaotic Evil
-```
-
 <h3 align=center>Programming Language (Studied)</h3>
 <div name=table align=center>
 	<table>
